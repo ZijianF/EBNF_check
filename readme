@@ -1,0 +1,11 @@
+ReadMe for project 2 by Zijian Feng
+The program can be compiled and ran using general ways of running rust program.
+
+It is also able to distinguish variable and function identifiers in the parser part.
+
+Flaws:
+1. It is unable to format the output file with space and new lines characters.
+
+2. The program does not terminate if there are syntactical error.
+
+There still are some potential bugs, but the program is able to scan through the files and properly tokenize it.
